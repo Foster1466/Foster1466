@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2> Hi, I'm Jasmeet </h2>
 
 
-<p><em>Computer Science Engineer from <a href="https://www.wsu.edu/">Washington State University</a> and <a href="https://mu.ac.in/">University of Mumbai.</a></br>Former Software Engineering Intern at&nbsp <a href="https://www.intel.com"><img src="https://media.tenor.com/hhLcQVDXDVYAAAAi/djdnebevegsuzizikwnenene-oeejwgyszyzywbebeb.gif" width="30"> </a>
+<p><em>Computer Science Engineer from <a href="https://www.wsu.edu/">Washington State University</a> </br>Former Software Engineering Intern at&nbsp <a href="https://www.intel.com"><img src="https://media.tenor.com/hhLcQVDXDVYAAAAi/djdnebevegsuzizikwnenene-oeejwgyszyzywbebeb.gif" width="30"> </a>
 </em></p>
 
 
