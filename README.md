@@ -29,7 +29,7 @@ MyInfo = {
                 Languages: "Python, Java, JavaScript, C",
                 Web Technologies: "Django, Flask, Spring Boot, React, Rest APIs, Microservices, Relational Databases, NoSQL, JSON/XML",
                 Cloud Technologies: "AWS, S3, RDS, EC2, Lambda, Redis, Distributed Systems, Docker, Kubernetes",
-                Developer Tools: "Git, Jira, Postman, RabbitMQ, ELK Stack, Jenkins, Agile Methodology, Scrum, SDLC, Linux",                
+                Developer Tools: "Git, Jira, Postman, RabbitMQ, ELK Stack, Jenkins (CI/CD), Agile Methodology, Scrum, SDLC, Linux",                
             },
     Focus Areas: "Software Engineering (Backend, Automation)",
     current_project: "I'm working on a IOS application that utilizes latest widget features from IOS 17"
