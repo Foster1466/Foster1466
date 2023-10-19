@@ -25,13 +25,15 @@ Here are some ideas to get you started:
 
 ```python
 MyInfo = {
-  code: [Python, Java, JavaScript, C],
-  about_me: {
-                Focus Areas: "Software Engineering (Backend, Automation)",
+    code: [Python, Java, JavaScript, C],
+    skills: {
                 Languages: "Python, Java, JavaScript, C",
-                Skills/Tools Utilized: "Django, Spring Boot, React, REST APIs, Jira, AWS, Jenkins",
+                Web Technologies: "Django, Flask, Spring Boot, React, Rest APIs, Microservices, Relational Databases, NoSQL, JSON/XML",
+                Cloud Technologies: "AWS, S3, RDS, EC2, Lambda, Redis, Distributed Systems, Docker, Kubernetes",
+                Developer Tools: "Git, Jira, Postman, RabbitMQ, ELK Stack, Jenkins, Agile Methodology, Scrum, SDLC, Linux",                
             },
-  Current project: "I'm working on a IOS application that utilizes latest widget features from IOS 17"
+    Focus Areas: "Software Engineering (Backend, Automation)",
+    current_project: "I'm working on a IOS application that utilizes latest widget features from IOS 17"
 }
 ```
 
@@ -39,7 +41,7 @@ MyInfo = {
 
 
 
-- 🔭 I’m currently working on <strong>An IOS Application</strong>
+- 🔭 I’m currently working on <strong>an IOS Application</strong>
 - 🌱 I’m currently learning <strong>Swift, Objective-C </strong>
 - 🔍 I’m looking for a Full-Time job in <strong>Software Engineering</strong>
 - 💬 Ask me about <strong>Data Structures, Python, Django, Java, C</strong>
