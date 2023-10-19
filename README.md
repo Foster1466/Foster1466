@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ```python
 MyInfo = {
-    code: [Python, Java, JavaScript, C],
     skills: {
                 Languages: "Python, Java, JavaScript, C",
                 Web Technologies: "Django, Flask, Spring Boot, React, Rest APIs, Microservices, Relational Databases, NoSQL, JSON/XML",
