@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Foster1466/Foster1466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi, I'm Jasmeet </h2>
+
+
+<p><em>Computer Science Engineer from <a href="https://www.wsu.edu/">Washington State University</a> and <a href="https://mu.ac.in/">University of Mumbai.</a></br>Former Software Engineering Intern at&nbsp <a href="https://www.intel.com"><img src="https://media.tenor.com/hhLcQVDXDVYAAAAi/djdnebevegsuzizikwnenene-oeejwgyszyzywbebeb.gif" width="30"> </a>
+</em></p>
+
+
+### <p>Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{foster1466}/count.svg)</p>
+
+```python
+MyInfo = {
+  code: [Python, Java, JavaScript, C],
+  about_me: {
+                Focus Areas: "Software Engineering (Backend, Automation)",
+                Languages: "Python, Java, JavaScript, C",
+                Skills/Tools Utilized: "Django, Spring Boot, React, REST APIs, Jira, AWS, Jenkins",
+            },
+  Current project: "I'm working on a IOS application that utilizes latest widget features from IOS 17"
+}
+```
+
+<img src="https://img.shields.io/badge/jasmeetsingh4263@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jasmeetsingh4263@gmail.com">     <a href="https://www.linkedin.com/in/jasmeet-singh-jj/"><img src="https://img.shields.io/badge/Jasmeet Singh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+
+
+- 🔭 I’m currently working on <strong>An IOS Application</strong>
+- 🌱 I’m currently learning <strong>Swift, Objective-C </strong>
+- 🔍 I’m looking for a Full-Time job in <strong>Software Engineering</strong>
+- 💬 Ask me about <strong>Data Structures, Python, Django, Java, C</strong>
+
+### GitHub Stats:
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=foster1466)](https://github.com/foster1466/github-readme-stats)
+
+
+
