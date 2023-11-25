@@ -36,7 +36,7 @@ MyInfo = {
 }
 ```
 
-<img src="https://img.shields.io/badge/jasmeetsingh4263@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jasmeetsingh4263@gmail.com">     <a href="https://www.linkedin.com/in/jasmeet-singh-jj/"><img src="https://img.shields.io/badge/Jasmeet Singh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/jasmeetsingh4263@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jasmeetsingh4263@gmail.com">
 
 
 
